@@ -34,7 +34,7 @@ model Questions {
   userId    Int
 
   user      User       @relation(fields: [userId], references: [id])
-  answers   Answers[]  // ← ARRUMADO (era 1:1)
+  answers   Answers[]  
 }
 
 model Answers {
