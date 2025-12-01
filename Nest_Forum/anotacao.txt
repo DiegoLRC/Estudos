@@ -1,0 +1,6 @@
+Video do Projeto: https://www.youtube.com/watch?v=S5S_8nuoSbA&list=PLR8JXremim5AdjhggWtqzgSXPYZ_V9x2b&index=4
+
+01/12/2025
+    Fix: Correção de configuração do Prisma 6 para o Prisma 7 (Video está no Prisma 6).
+    Fix: Correção de conceitos do Prisma e Nestjs.
+    Continuar a partir do EP5
